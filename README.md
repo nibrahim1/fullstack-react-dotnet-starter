@@ -1,1 +1,30 @@
 # fullstack-react-dotnet-starter
+
+fullstack-react-dotnet-starter/
+  README.md
+  architecture/
+    diagrams/
+    decisions.md
+  frontend/
+    README.md
+    src/
+  backend/
+    README.md
+    src/
+      Api/
+      Application/
+      Domain/
+      Infrastructure/
+    tests/
+  database/
+    migrations/
+    seed-data.sql
+  iac/
+    bicep/
+  .github/
+    workflows/
+  docs/
+    local-setup.md
+    security.md
+    ci-cd.md
+    roadmap.md
